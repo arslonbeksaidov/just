@@ -1,0 +1,8 @@
+{
+  "name": "just",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "ff39acd8"
+}
